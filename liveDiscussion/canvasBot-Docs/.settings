@@ -1,0 +1,11 @@
+cacheFileName=cache.txt
+tokenFileName=tokensDB.txt
+canvasDomain=https://fairmontschools.instructure.com
+apiPort=40
+syncCanvasFreq=1300
+webPort=80
+webAddress=http://localhost
+defaultUserImage=./img/defaultUserImg.png
+
+disconnectFromCanvas=true
+
